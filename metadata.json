@@ -1,0 +1,8 @@
+{
+  "name": "Crafty Notes",
+  "description": "A powerful digital note-taking app featuring Crafter AI, image generation, and a super-powered design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
